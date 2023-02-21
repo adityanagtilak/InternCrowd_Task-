@@ -1,0 +1,107 @@
+ body{
+    background-color: rgb(250, 244, 235);
+    height: 100%;
+}
+
+html{
+    height:100%;
+}
+
+
+
+/*
+h1{
+    color: rgb(20, 225, 239);
+    font-style: bold;
+    font-family: sans-serif;
+    font: bold;
+    font-size: 40px;
+}
+*/
+
+h2{
+    padding-top: 20px;
+    padding-bottom: -30px;
+    font-family: sans-serif;
+    margin: 30px auto auto 190px;
+}
+
+
+p{
+    padding-top: 0px;
+    width: 200px;
+    font-family: serif;
+    margin: 0px auto auto 100px;
+}
+
+img{
+    margin: 0px 250px 50px 10px;
+    width: 450px;
+    float: right;
+}
+
+hr{
+    height: 1px;
+    background-color: rgb(131, 129, 129);
+} 
+
+.header{
+    height: 20vh;
+    width: auto;
+    position:relative;
+    background-color: rgb(245, 165, 136);
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links{
+    padding: 2px 0;
+    margin-top: 17px;
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.nav-links li{
+    margin-left: 250px;
+    display: inline-block;
+    margin: 2px 5px auto 10px;
+}
+
+.nav-links li a{
+    text-decoration: none;
+    color:black;
+}
+
+.heading-comp{
+    font-style: italic;
+    margin: 0px ;
+    color: rgb(198, 66, 66);
+}
+
+.heading{
+    margin-left: 0px;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-right: 450px;
+}
+
+.middle-nav{
+    margin:25px 25px auto 90px;
+}
+
+.graduate{
+    width: 35px;
+    margin: 25px 20px auto 25px;
+}
+
+b{
+    color: rgba(5, 32, 184, 0.555);
+}
+
+.foot{
+    text-decoration: none;
+}
